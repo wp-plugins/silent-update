@@ -8,7 +8,7 @@ Stable tag: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Silent Update is post/page date modification/control plugin.
+Control whether update post's modification date or not.
 
 == Description ==
 
